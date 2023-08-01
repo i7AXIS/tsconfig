@@ -1,0 +1,20 @@
+{
+  "name": "@8axiss/tsconfig",
+  "version": "1.0.0",
+  "description": "tsconfig.json",
+  "main": "tsconfig.json",
+  "homepage": "https://github.com/i7AXIS/tsconfig#readme",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i7AXIS/tsconfig.git"
+  },
+  "author": {
+    "name": "Maxim Strelkov",
+    "email": "618axis916@gmail.com",
+    "url": "https://github.com/i7AXIS"
+  },
+  "license": "MIT"
+}
