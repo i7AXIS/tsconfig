@@ -7,8 +7,8 @@ npm add @8axiss/tsconfig -D
 pnpm add @8axiss/tsconfig -D
 ```
 
+### Example ```tsconfig.json``` file
 ```json
-// tsconfig.json
 {
   "extends": "@8axiss/tsconfig",
   "compilerOptions": {
