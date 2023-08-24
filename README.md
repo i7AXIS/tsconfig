@@ -1,7 +1,7 @@
 # @8axiss/tsconfig
 
 ```
-npm add @8axiss/tsconfig -D
+npm i @8axiss/tsconfig -D
 ```
 ```
 pnpm add @8axiss/tsconfig -D
